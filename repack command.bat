@@ -1,0 +1,1 @@
+.\u4pak.py pack pakchunk0-WindowsNoEditor_wsbk2020_P.pak motogp20

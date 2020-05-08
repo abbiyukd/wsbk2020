@@ -9,14 +9,16 @@
     ex : D:\Steam\steamapps\common\MotoGP™20\motogp20\Content\Paks
 7. Enjoy
 
-#Known bugs (so far)
-1. Front tyre will look clip through the ground slightly when under braking
+# Known bugs (so far)
+1. Custom number are removed because it isn't fit any of the bikes
 2. Graphical winglet damage temporary is not working
 3. 
 
-#Credits (to be updated)
+# Credits (to be updated)
 1. Pata Yamaha & GRT Yamaha 2019 livery by titi114
 2. Aruba.it ducati 2020 bike livery made by Calicojack
 3. Honda CBR1000RRR base model from Honda Motorcycle App
     Ported from GTA SA mod made by NGR Garage
-4.
+4. All honda's team livery made by JOACKO172
+5. Kawasaki 2019 Livery made by Calicojack
+6.

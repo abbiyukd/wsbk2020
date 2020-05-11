@@ -24,8 +24,7 @@
 5. Kawasaki 2019 Livery made by Calicojack
 6. Panigale V4 winglet made by Zacky Zen a.k.a speedster05
 7. Yamaha R1 2020 from Yamaha MyGarage
-    Ripped by Ali Akbari P
-    Processed by Bihun Rebus
+    ripped by Ali Akbari P and processed by Bihun Rebus
 8.
 
 ## Mod creator

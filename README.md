@@ -1,5 +1,5 @@
-## MotoGP20 WSBK 2020 mod
-# Installation
+# MotoGP20 WSBK 2020 mod
+## Installation
 1. Make sure you have installed python in your PC
 2. Download the repository as zip file
 3. Extract the compressed zip file wherever you like
@@ -9,16 +9,25 @@
     ex : D:\Steam\steamapps\common\MotoGP™20\motogp20\Content\Paks
 7. Enjoy
 
-# Known bugs (so far)
+## Known bugs (so far)
 1. Custom number are removed because it isn't fit any of the bikes
+    (You can add it manually into the bike texture)
 2. Graphical winglet damage temporary is not working
 3. 
 
-# Credits (to be updated)
+## Credits (to be updated)
 1. Pata Yamaha & GRT Yamaha 2019 livery by titi114
 2. Aruba.it ducati 2020 bike livery made by Calicojack
 3. Honda CBR1000RRR base model from Honda Motorcycle App
     Ported from GTA SA mod made by NGR Garage
 4. All honda's team livery made by JOACKO172
 5. Kawasaki 2019 Livery made by Calicojack
-6.
+6. Panigale V4 winglet made by Zacky Zen a.k.a speedster05
+7.
+
+## Mod creator
+- BIKER7202
+- abbiyu distira a.k.a 86ayayay (I know my username is sucks lol, but I can't change it)
+- adrian melandri
+- gilang septian
+- ques ross

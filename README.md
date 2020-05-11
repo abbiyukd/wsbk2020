@@ -23,7 +23,10 @@
 4. All honda's team livery made by JOACKO172
 5. Kawasaki 2019 Livery made by Calicojack
 6. Panigale V4 winglet made by Zacky Zen a.k.a speedster05
-7.
+7. Yamaha R1 2020 from Yamaha MyGarage
+    Ripped by Ali Akbari P
+    Processed by Bihun Rebus
+8.
 
 ## Mod creator
 - BIKER7202

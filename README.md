@@ -13,17 +13,17 @@ v1.0 :
 ## Installation
 1. Make sure you have installed python 2.7 in your PC <br>
 [Download python 2.7](https://www.python.org/downloads/release/python-278/)
-2. Download the repository as zip file
-![Download](/images/installation/1.png)
+2. Download the repository as zip file <br>
+![Download](/images/installation/1.png?raw=true "WSBK 20")
 3. Extract the compressed zip file wherever you like
 4. Then run the 'repack command.bat' file, a prompt will show up and wait until it finished (the prompt will close automatically)<br>
-It may took a while, so be patience
-![Repack](/images/installation/2.png)
-5. A file named"pakchunk0-WindowsNoEditor_wsbk2020_P.pak" will be created
-![RepackDone](/images/installation/3.png)
+It may took a while, so be patience <br>
+![Repack](/images/installation/2.png?raw=true "WSBK 20")
+5. A file named"pakchunk0-WindowsNoEditor_wsbk2020_P.pak" will be created <br>
+![RepackDone](/images/installation/3.png?raw=true "WSBK 20")
 6. Copy Paste or Move the pak file into you MotoGP20 paks folder <br>
-ex : D:\Steam\steamapps\common\MotoGP™20\motogp20\Content\Paks
-![Move](/images/installation/4.png)
+ex : D:\Steam\steamapps\common\MotoGP™20\motogp20\Content\Paks <br>
+![Move](/images/installation/4.png?raw=true "WSBK 20")
 7. Enjoy
 
 ## Known bugs (so far)
